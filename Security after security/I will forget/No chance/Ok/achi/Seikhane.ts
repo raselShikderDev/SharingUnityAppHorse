@@ -116,11 +116,11 @@ ps:- rsRASel69%&
 
 /*
 /*------------------------------------
-/*-------------Github---------------
+/*-------------G-t-hb---------------
 -------------------------------------
-Pass: GithubRasel69
-user; raselShikderDev
-Email: rasel.sikder777.rk@gmail.com
+ps: G-i-t-h-u-bR-a-sel69
+usr; raselShikderDev
+EL: rasel.sikder777.rk@gmail.com
 
 
 */
